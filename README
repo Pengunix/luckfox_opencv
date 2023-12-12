@@ -1,2 +1,9 @@
 试图在luckfox pico运行opencv videoio
 使用rkisp opencv mobile
+
+## 注意
+**此仓库以归档, 请使用nihui/opencv-mobile**
+
+今天看官方文档, 突然多出了几个文章, 发现opencv-mobile居然支持videoio了, 瞬间怀疑自己是不是眼瞎了.最后打开opencv-mobile的仓库,发现两天前nihui大佬顺便把videoio做了.
+
+大佬写的比我好, 没我什么事了.
